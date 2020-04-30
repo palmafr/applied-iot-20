@@ -31,7 +31,7 @@ We are happy to announce that [Electrokit.se](https://www.electrokit.com/) has a
 
 You can choose from a variety of sensors depending on what you want to develop in the course. If you are unsure, please pick just a start kit for Arduino (3.3V).
 
-- Sensors of your choice. I recommend a starting kit from either [amazon.de](https://www.amazon.de/Elegoo-aufger%C3%BCsteter-Sensormodul-Bausatz-Anleitung/dp/B01M30ZWQR/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sensor+kit+arduino&qid=1583957059&sr=8-5) for ~30 EUR, or from Swedish distributor [Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/playknowlogy-stora-modul-paketet-for-arduino-p87291)
+- Sensors of your choice. I recommend a starting kit from either [amazon.de](https://www.amazon.de/Elegoo-aufger%C3%BCsteter-Sensormodul-Bausatz-Anleitung/dp/B01M30ZWQR/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sensor+kit+arduino&qid=1583957059&sr=8-5) for ~30 EUR, or from Swedish distributor [Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/playknowlogy-stora-modul-paketet-for-arduino-p87291) and [Electrokit.com] (https://www.electrokit.com/produkt/sensor-kit-26-moduler/)
 
 Wiring and breadboards:
 
