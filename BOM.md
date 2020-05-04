@@ -10,9 +10,11 @@ Bill of materials for the course in Applied IoT ([Tillämpad IoT Introduktion, 1
 
 In order to be able to participate in the course you need to buy **hardware**. The course is based upon MicroPython, and we have chosen to work with Pycom's hardware.
 
-We are happy to announce that [Electrokit.se](https://www.electrokit.com/) has agreed on setting up a couple of pre-assembled kits for the course, these kits will include both Pycom devices and sensors. **Links will come here very soon.**
+We are happy to announce that [Electrokit.se](https://www.electrokit.com/) has agreed on setting up a couple of pre-assembled kits for the course, these kits will include both Pycom devices and sensors. The links to the kits are the following. You may choose the bundle appropriate for you from Sensors only bundle, LoPy4 Basic bundle, or LoPy4 + Sensors bundle.
 
-
+* [LNU – 1DT305 Tillämpad IoT – Sensors only bundle](https://www.electrokit.com/produkt/lnu-1dt305-tillampad-iot-sensors-only-bundle/)
+* [LNU – 1DT305 Tillämpad IoT – LoPy4 Basic bundle](https://www.electrokit.com/produkt/lnu-1dt305-tillampad-iot-lopy4-basic-bundle/)
+* [LNU – 1DT305 Tillämpad IoT – LoPy4 and sensors bundle](https://www.electrokit.com/produkt/lnu-1dt305-tillampad-iot-lopy4-and-sensors-bundle/)
 
 ## What hardware is recommended
 
